@@ -1,0 +1,7 @@
+Version history:  
+02/09/2018: fix delete button auto enabled when there's no product in the cart, auto scroll down feature.
+03/09/2018: add feature to auto focus and select newly added item, add continously delete feature.
+04/09/2018: add feature allowing up and down key to select product in table and in cart list, change currency format to 2 decimal places.
+15/09/2018: change name of some variables in respect to their task, prevent users from entering wrong value in quantity spinbox, fix ssl certificate verification error.
+19/09/2018: change "Price" heading  to "Price (AUD)".
+20/09/2018: organize invoice code.
